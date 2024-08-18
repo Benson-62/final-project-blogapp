@@ -91,7 +91,7 @@ const Add = () => {
               value={inputs.img_url}
             />
 
-            <Button variant="contained" color="purple" onClick={addData}>
+            <Button variant="contained" color="secondary" onClick={addData}>
               Submit
             </Button>
           </Box>
